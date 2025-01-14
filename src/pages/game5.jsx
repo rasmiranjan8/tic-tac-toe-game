@@ -76,7 +76,7 @@ const Game5 = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-green-300 to-green-400 text-gray-800">
+    <div className="flex flex-col items-center justify-center h-screen bg-gradient-to-r from-purple-300 to-purple-400 text-gray-800">
       <div>
         <h1 className="text-3xl md:text-4xl font-bold mb-4">
           Play 5x5 Tic Tac Toe Game
